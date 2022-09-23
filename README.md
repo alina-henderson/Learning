@@ -1,12 +1,16 @@
-# Название проекта: "Научиться учиться"
+# Project name: "Learning to learn"
 
-## Какие темы затрагивает проект
-В этом проекте описываются самые актуальные подходы к обучению в любой сфере жизни. Здесь приведены различные авторы и их методики обучения, данные исследований и исторические сводки, есть ссылки на полезные видео и обязательную к прочтению книгу. Зачастую, даже у самых трудных задач есть преимущества - знания в них глубже. Обучаться чему-то новому не только полезно, но и занимательно. И, оказывается, на освоение нового навыка достаточно всего 20 часов, как говорится в одном из приведенных видео.
+## What topics does the project cover
+This project describes the most relevant approaches to learning in any area of ​​life. Here are various authors and their teaching methods, research data and historical summaries, links to helpful videos and a must-read book. Often, even the most difficult tasks have advantages - knowledge in them is deeper. Learning something new is not only useful, but also entertaining. And it turns out that only 20 hours are enough to master a new skill, as one of the videos above says.
 
-## Особенности второй проектной работы
-Второй проект является логическим продолжением первого проекта, дополненного новыми блоками с применением новых навыков, приобретенных в последнем курсе. Кординальным отличием является применение файловой организации по системе БЕМ. В отличие от первого проекта, здесь находят применение анимации, такие как вращение элементов и обесцвечивание ссылок с учетом длительности и насыщенности цвета. Структурирование файлов по БЕМ показывает, что это практично, интуитивно понятно, позволяет с легкостью возвращаться к созданным элементам для дальнейших манипуляций. Проект научил создавать и использовать повторяющиеся элементы. Это значительно упрощает написание кода, разгружает его, экономит  время, затрачиваемое на повторы.
+## Features of the second design work
+The second project is a logical continuation of the first project, supplemented with new blocks using new skills acquired in the last course. The cardinal difference is the use of file organization according to the BEM system. Unlike the first project, animations are used here, such as rotating elements and fading links based on duration and color saturation. Structuring files according to BEM shows that it is practical, intuitive, and allows you to easily return to the created elements for further manipulations. The project taught how to create and use repeating elements. This greatly simplifies writing code, unloads it, saves time spent on repetitions.
 
-## Присылайте свои вопросы и пожелания
-Если вы обнаружите неточности или ошибки в проектной работе, а также, если вы хотели бы предложить варианты усовершенствования работы, напишите нам на следующий адрес электронной почты info@example.com.
+## Send your questions and wishes
+If you find inaccuracies or errors in the design work, or if you would like to suggest improvements to the work, please contact us at the following email address info@example.com.
 
-Успехов в изучении нового!
+Follow the link
+https://alina-henderson.github.io/Learning/#
+Good luck with learning new things!
+
+PS. That's my early project. Resposiveness was not yet implemented here.
